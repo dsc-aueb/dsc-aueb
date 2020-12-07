@@ -35,9 +35,28 @@ Coming soon!
 <details><summary>More info</summary>
 <p>
 
-[Official post](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-git/)
+[Check out what happend here](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-git/)
+
+### Presenter
+
+**Ion Petropoulos**<br>
+<em>Software engineer @blueground</em><br>
+[Twitter](https://twitter.com/ionpetropoulos) | 
+[GitHub](https://github.com/ionpetro)
+
+### Description
 
 In this event, we will introduce what git offers to developers and why is preferable for big projects with multiple coders. We will also address the difference between git and Github. It’s a common mistake that those two are the same or do exactly the same. Our team will demonstrate basic tools and concepts on git and why it is preferable to use terminals and commands. 
+
+### Details
+
+* [Presentation](presentations/Introduction_to_Git.pdf)
+* Resources:
+    * https://git-scm.com/
+    * https://ohshitgit.com/
+    * https://learngitbranching.js.org/
+    * https://www.atlassian.com/git/tutorials
+
 
 </p>
 </details>
