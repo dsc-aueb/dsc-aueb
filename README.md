@@ -101,5 +101,5 @@ We welcome you to our first event in the DSC community. This event is specially 
 
 ## 🔗 DSC Links
 
-| [Official Page](https://dsc.community.dev/athens-university-of-economics-and-business/)  | [Discord Server](https://discord.gg/C2TXnJyUma) | [Facebook](https://www.facebook.com/dscaueb) | [Instagram](https://www.instagram.com/dsc_aueb/)  | [YouTube Channel](https://www.youtube.com/channel/UCgGNQk-OYb7cvK_jFq5VoCQ)
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Official Page](https://dsc.community.dev/athens-university-of-economics-and-business/) | [Facebook](https://www.facebook.com/dscaueb) | [Instagram](https://www.instagram.com/dsc_aueb/)  | [YouTube Channel](https://www.youtube.com/channel/UCgGNQk-OYb7cvK_jFq5VoCQ)
+| ------------- | ------------- | ------------- | ------------- |
