@@ -1,6 +1,12 @@
 # ![Official Community Page](./logo.png) Developer Student Clubs
 
 ## Athens University of Economics and Business
+</p>
+<p align="center">
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/775808022181052417?logo=discord"
+            alt="chat on Discord"></a>
+</p>
 
 ## About this repository
 
