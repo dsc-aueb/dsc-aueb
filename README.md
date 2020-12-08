@@ -25,7 +25,8 @@ Each team has its own repository. Click the links bellow to see more of our cont
 
 <details><summary>More info</summary>
 <p>
-Coming soon!
+The time has come and our ML team is happy to present their first event. If you were always wondering what Machine Learning is all about but you thought that it was hard or you didn’t really find a good event to explain the basics this event is for you!!! The team is here to untangle the mysterious web of Machine Learning.
+Get your free ticket and show some support to our ML team!
 </p>
 </details>
 
