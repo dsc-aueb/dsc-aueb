@@ -14,7 +14,7 @@ This repository will serve as a hub for all of our other content. This will allo
 
 Each team has its own repository. Click the links bellow to see more of our content.
 
-| [Android](https://github.com/dsc-aueb/Android) | [DevOps](https://github.com/dsc-aueb/DevOps) | [Machine learning](https://github.com/dsc-aueb/ML) | [Web Development](https://github.com/dsc-aueb/Web-development) |
+| [Android](https://github.com/dsc-aueb/Android) | [DevOps](https://github.com/dsc-aueb/DevOps) | [Machine learning](https://github.com/dsc-aueb/Machine-Learning) | [Web Development](https://github.com/dsc-aueb/Web-development) |
 | ------------- | ------------- | ------------- | ------------- |
 
 ---
