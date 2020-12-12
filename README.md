@@ -21,6 +21,33 @@ Each team has its own repository. Click the links bellow to see more of our cont
 
 ## Upcoming Event
 
+### [Introduction to DevOps](https://dsc.community.dev/j/gx9ywyhvsbnyf/)
+
+<details><summary>More info</summary>
+<p>
+
+Guest Host:<br>
+**Kai Hendry**<br>
+<em>[YouTuber](https://www.youtube.com/user/kaihendry) / DevOps Engineer</em><br>
+[Website](https://hendry.iki.fi/) | 
+[Twitter](https://twitter.com/kaihendry)<br>
+Email: hendry@iki.fi
+
+**Yiannis Spanos**<br>
+<em>Linux / DevOps Enthousiast</em><br>
+[Twitter](https://twitter.com/yiannisvspanos)<br>
+
+[Event Notes](https://github.com/dsc-aueb/DevOps/blob/main/01_Introduction/contents.md)
+
+Recently we talked about git and how to use it to work on a project with multiple colleagues. This Saturday we are going to learn how to scale our infrastructure and improve the frequency of new product releases, while also maintaining the reliability and security of our software. The collection of practices and tools that help us achieve those goals is called DevOps (Development Operations).
+
+</p>
+</details>
+
+---
+
+## Past Events
+
 ### Introduction to Machine learning
 
 <details><summary>More info</summary>
@@ -29,11 +56,6 @@ The time has come and our ML team is happy to present their first event. If you 
 Get your free ticket and show some support to our ML team!
 </p>
 </details>
-
-
----
-
-## Past Events
 
 &nbsp;
 
