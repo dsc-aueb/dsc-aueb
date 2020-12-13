@@ -8,7 +8,7 @@
             alt="chat on Discord"></a>
 </p>
 
-## About this repository
+## ℹ️ About this repository
 
 This repository will serve as a hub for all of our other content. This will allow us to share our presentations, code and other material to supplement our live events.
 
@@ -19,7 +19,7 @@ Each team has its own repository. Click the links bellow to see more of our cont
 
 ---
 
-## Upcoming Event
+## 🎫 Upcoming Event
 
 ### [Introduction to DevOps](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-devops/#/)
 
