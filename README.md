@@ -21,7 +21,7 @@ Each team has its own repository. Click the links bellow to see more of our cont
 
 ## 🎫 Upcoming Event
 
-### [Introduction to DevOps](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-devops/#/)
+### [Introduction to DevOps](https://github.com/dsc-aueb/DevOps)
 
 <details><summary>More info</summary>
 <p>
