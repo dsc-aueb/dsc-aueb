@@ -55,9 +55,6 @@ Recently we talked about git and how to use it to work on a project with multipl
 </p>
 </details>
 
-
-&nbsp;
-
 ### [Introduction to Machine learning](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-machine-learning/)
 
 <details><summary>More info</summary>
@@ -66,8 +63,6 @@ The time has come and our ML team is happy to present their first event. If you 
 Get your free ticket and show some support to our ML team!
 </p>
 </details>
-
-&nbsp;
 
 ### [Introduction to GIT](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-git/)
 
@@ -98,8 +93,6 @@ In this event, we will introduce what git offers to developers and why is prefer
 </p>
 </details>
 
-&nbsp;
-
 ### [How I landed my first Android job!](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-how-i-landed-my-first-android-job/)
 
 <details><summary>More info</summary>
@@ -110,8 +103,6 @@ We are beyond happy with the response our first event had. We would like to than
 </p>
 </details>
 
-&nbsp;
-
 ### [Publish your first Website in 15 minutes!](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-publish-your-first-website-in-15-minutes/)
 
 <details><summary>More info</summary>
@@ -121,8 +112,6 @@ We welcome you to our first event in the DSC community. This event is specially 
 
 </p>
 </details>
-
-&nbsp;
 
 ---
 
