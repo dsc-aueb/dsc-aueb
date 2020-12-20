@@ -28,7 +28,7 @@ Happy holodays to everyone! Our next event is going to take place next year! See
 
 ## Past Events
 
-### [Introduction to DevOps](https://github.com/dsc-aueb/DevOps)
+### [Introduction to DevOps](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-devops/)
 
 Please answer the following two questions:
 - [Are you ok with Dev-Ops events being in English?](https://www.strawpoll.me/42303442)
