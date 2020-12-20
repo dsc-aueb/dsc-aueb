@@ -21,7 +21,18 @@ Each team has its own repository. Click the links bellow to see more of our cont
 
 ## 🎫 Upcoming Event
 
+Happy holodays to everyone! Our next event is going to take place next year! See you then!
+
+---
+
+
+## Past Events
+
 ### [Introduction to DevOps](https://github.com/dsc-aueb/DevOps)
+
+Please answer the following two questions:
+- [Are you ok with Dev-Ops events being in English?](https://www.strawpoll.me/42303442)
+- [What topic's interest you the most?](https://www.strawpoll.me/42303486)
 
 <details><summary>More info</summary>
 <p>
@@ -44,9 +55,8 @@ Recently we talked about git and how to use it to work on a project with multipl
 </p>
 </details>
 
----
 
-## Past Events
+&nbsp;
 
 ### Introduction to Machine learning
 
