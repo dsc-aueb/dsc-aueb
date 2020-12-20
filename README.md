@@ -58,7 +58,7 @@ Recently we talked about git and how to use it to work on a project with multipl
 
 &nbsp;
 
-### Introduction to Machine learning
+### [Introduction to Machine learning](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-machine-learning/)
 
 <details><summary>More info</summary>
 <p>
@@ -69,12 +69,10 @@ Get your free ticket and show some support to our ML team!
 
 &nbsp;
 
-### Introduction to GIT
+### [Introduction to GIT](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-git/)
 
 <details><summary>More info</summary>
 <p>
-
-[Check out what happend here](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-introduction-to-git/)
 
 ### Presenter
 
@@ -102,12 +100,10 @@ In this event, we will introduce what git offers to developers and why is prefer
 
 &nbsp;
 
-### How I landed my first Android job!
+### [How I landed my first Android job!](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-how-i-landed-my-first-android-job/)
 
 <details><summary>More info</summary>
 <p>
-
-[Official post](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-how-i-landed-my-first-android-job/)
 
 We are beyond happy with the response our first event had. We would like to thank each and everyone who attended the event and we loved that your enthusiasm for technologies and frameworks matches ours. For that reason, our team is here again with a great event. Who here is interested to become an Android developer? Our team has prepared a new interesting event. The key point of this event is not to just show how to use the Android Framework. Our team has working experience that wants to share with you. Don’t miss it!!!
 
@@ -116,12 +112,10 @@ We are beyond happy with the response our first event had. We would like to than
 
 &nbsp;
 
-### Publish your first Website in 15 minutes!
+### [Publish your first Website in 15 minutes!](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-publish-your-first-website-in-15-minutes/)
 
 <details><summary>More info</summary>
 <p>
-
-[Official post](https://dsc.community.dev/events/details/developer-student-clubs-athens-university-of-economics-and-business-presents-publish-your-first-website-in-15-minutes/)
 
 We welcome you to our first event in the DSC community. This event is specially designed in order to get to know us a lit bit better and for us to know you as well. For our first event, we chose a very general but yet very popular subject. "How can I build my own website?" We have prepared a short and comprehensive presentation to explain how can someone create his context and deploy it with Plesk.
 
